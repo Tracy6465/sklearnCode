@@ -53,7 +53,6 @@ for a in alphas:
 
 # #############################################################################
 # Display results
-
 ax = plt.gca()
 
 ax.plot(alphas, coefs)
